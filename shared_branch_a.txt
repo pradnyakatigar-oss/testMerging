@@ -1,0 +1,13 @@
+# Product Roadmap
+
+Owner: Pradnya
+Quarter: Q4 2025
+
+## Milestones
+1. Launch **Mobile App**
+2. Sunset legacy API
+3. Migrate billing to Stripe
+
+## Notes
+- Release train: **biweekly**
+- Support hours: 9am–6pm IST
