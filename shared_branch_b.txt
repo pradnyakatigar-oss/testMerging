@@ -1,0 +1,13 @@
+# Product Roadmap
+
+Owner: Team Alpha
+Quarter: Q4 FY25 (extended)
+
+## Milestones
+1. Launch **Web Portal** (Phase 1)
+2. Keep legacy API for enterprise customers
+3. Integrate billing with Razorpay
+
+## Notes
+- Release cadence: **weekly**
+- Support hours: 24/7 via on-call
