@@ -1,13 +1,13 @@
 # Product Roadmap
 
-Owner: Team Alpha
-Quarter: Q4 FY25 (extended)
+Owner: Pradnya
+Quarter: Q4 2025
 
 ## Milestones
-1. Launch **Web Portal** (Phase 1)
-2. Keep legacy API for enterprise customers
-3. Integrate billing with Razorpay
+1. Launch **Mobile App**
+2. Sunset legacy API
+3. Migrate billing to Stripe
 
 ## Notes
-- Release cadence: **weekly**
-- Support hours: 24/7 via on-call
+- Release train: **biweekly**
+- Support hours: 9am–6pm IST
